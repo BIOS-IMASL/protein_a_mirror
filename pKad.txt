@@ -1,0 +1,3 @@
+aa	mirror	nativa
+
+H10	7.3	6.1

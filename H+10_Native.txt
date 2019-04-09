@@ -1,0 +1,27 @@
+inzX_fambepH_RESULT.res:FAMBEpH_Xinz:  0 HIS 10     4.00  1   0.997 0.997
+inzX_fambepH_RESULT.res:FAMBEpH_Xinz:  0 HIS 10     4.25  1   0.995 0.996
+inzX_fambepH_RESULT.res:FAMBEpH_Xinz:  0 HIS 10     4.50  1   0.991 0.992
+inzX_fambepH_RESULT.res:FAMBEpH_Xinz:  0 HIS 10     4.75  1   0.980 0.986
+inzX_fambepH_RESULT.res:FAMBEpH_Xinz:  0 HIS 10     5.00  1   0.956 0.975
+inzX_fambepH_RESULT.res:FAMBEpH_Xinz:  0 HIS 10     5.25  1   0.910 0.957
+inzX_fambepH_RESULT.res:FAMBEpH_Xinz:  0 HIS 10     5.50  1   0.835 0.926
+inzX_fambepH_RESULT.res:FAMBEpH_Xinz:  0 HIS 10     5.75  1   0.729 0.876
+inzX_fambepH_RESULT.res:FAMBEpH_Xinz:  0 HIS 10     6.00  1   0.590 0.799
+inzX_fambepH_RESULT.res:FAMBEpH_Xinz:  0 HIS 10     6.25  0   0.456 0.691
+inzX_fambepH_RESULT.res:FAMBEpH_Xinz:  0 HIS 10     6.50  0   0.331 0.557
+inzX_fambepH_RESULT.res:FAMBEpH_Xinz:  0 HIS 10     6.75  0   0.225 0.415
+inzX_fambepH_RESULT.res:FAMBEpH_Xinz:  0 HIS 10     7.00  0   0.148 0.285
+inzX_fambepH_RESULT.res:FAMBEpH_Xinz:  0 HIS 10     7.25  0   0.096 0.183
+inzX_fambepH_RESULT.res:FAMBEpH_Xinz:  0 HIS 10     7.50  0   0.061 0.112
+inzX_fambepH_RESULT.res:FAMBEpH_Xinz:  0 HIS 10     7.75  0   0.038 0.066
+inzX_fambepH_RESULT.res:FAMBEpH_Xinz:  0 HIS 10     8.00  0   0.022 0.038
+inzX_fambepH_RESULT.res:FAMBEpH_Xinz:  0 HIS 10     8.25  0   0.014 0.022
+inzX_fambepH_RESULT.res:FAMBEpH_Xinz:  0 HIS 10     8.50  0   0.009 0.012
+inzX_fambepH_RESULT.res:FAMBEpH_Xinz:  0 HIS 10     8.75  0   0.005 0.007
+inzX_fambepH_RESULT.res:FAMBEpH_Xinz:  0 HIS 10     9.00  0   0.003 0.004
+inzX_fambepH_RESULT.res:FAMBEpH_Xinz:  0 HIS 10     9.25  0   0.002 0.002
+inzX_fambepH_RESULT.res:FAMBEpH_Xinz:  0 HIS 10     9.50  0   0.001 0.001
+inzX_fambepH_RESULT.res:FAMBEpH_Xinz:  0 HIS 10     9.75  0   0.001 0.001
+inzX_fambepH_RESULT.res:FAMBEpH_Xinz:  0 HIS 10    10.00  0   0.001 0.000
+
+
